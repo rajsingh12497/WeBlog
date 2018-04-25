@@ -1,2 +1,0 @@
-# WeBlog
-WP project
